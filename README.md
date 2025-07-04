@@ -1,0 +1,30 @@
+# MY AMAZON CASE STUDY PROJRCT
+
+## TOOLS USED
+### EXCEL
+
+*PROCESS OF CARRING IT OUT
+
+1.CLEARNING THE DATASET
+
+2.CREATING A CALULATED COLUMN
+
+3.TRANSFORMING THE DATASET TO TABLE
+
+4.CREATING A PIVOT TABLE
+
+ 5.CREATING A DASHBOARD FOR VISULIZATION AND PRESENTATION.    
+
+ ### CLEARING THE DATASET
+
+ a use power excel power  query
+
+ b creating a calculated column using the power query also
+
+ ### CREATING A CALCULATED COLUMN
+
+ a using the table to creat a three other calculated column
+
+ 
+
+ 
