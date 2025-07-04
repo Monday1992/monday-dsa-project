@@ -43,6 +43,16 @@
  about the dataset
 
 ### INSIGHT 
+
+Base on the analysis carried out , it is noticed that some product hsve more review than others sguch as 
+electronics, compture&accessoriesand home improvemevt than the others which also reflect on the revenue 
+to be generated at the end of the financial year.
+
+therefore , to improve on the other product AMAZON have to go  into advertisement to creat awareness
+for the other product suc as toyes&games, officeproduct etc.
+
+lastly a survey should be carried out by AMAZON for the customers in other to know the
+customers fells about the product and how AMAZON can improve in their services.
  
 
  
